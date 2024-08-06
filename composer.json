@@ -1,0 +1,25 @@
+{
+    "name": "swservices/descmass",
+    "description": "Descargas Masivas del SAT",
+    "version": "1.0",
+    "keywords": [
+        "laravel",
+        "descargas sat"
+    ],
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Swservices\\Descmass\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Emmanuel Carreon",
+            "email": "escarreon@cloudbits.org.mx",
+            "homepage": "https://cloudbits.org.mx",
+            "role": "Developer"
+        }
+    ],
+    "require": {}
+}
